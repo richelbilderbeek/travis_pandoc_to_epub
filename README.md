@@ -4,9 +4,15 @@
 
 [![Build Status](https://travis-ci.org/richelbilderbeek/travis_pandoc_to_epub.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_pandoc_to_epub)
 
-Minimal project that uses `pandoc` to converts this markdown file to EPUB, using Travis CI.
+Minimal project that uses `pandoc` to converts a file to EPUB, using Travis CI.
 
 This GitHub is part of [the Travis Tutorial](https://github.com/richelbilderbeek/travis_tutorial)
+
+## More specific setups
+
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_pandoc_md_to_epub.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_pandoc_md_to_epub) [travis_pandoc_md_to_epub](https://github.com/richelbilderbeek/travis_pandoc_md_to_epub): convert a Markdown (`.md`) file to EPUB
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_pandoc_tex_to_epub.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_pandoc_tex_to_epub) [travis_pandoc_tex_to_epub](https://github.com/richelbilderbeek/travis_pandoc_md_to_epub): convert a TeX file to EPUB
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_pandoc_txt_to_epub.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_pandoc_txt_to_epub) [travis_pandoc_txt_to_epub](https://github.com/richelbilderbeek/travis_pandoc_md_to_epub): convert a text (`.txt`) file to EPUB
 
 ## Less complex setups
 
