@@ -17,3 +17,7 @@ This GitHub is part of [the Travis Tutorial](https://github.com/richelbilderbeek
 ## Less complex setups
 
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_pandoc.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_pandoc) [travis_pandoc](https://github.com/richelbilderbeek/travis_pandoc): convert a Markdown file to PDF
+
+## External links
+
+ * [pandoc's documentation how to convert text to EPUB](http://pandoc.org/epub.html)
