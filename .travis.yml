@@ -1,0 +1,7 @@
+install:
+  - sudo apt-get install pandoc texlive-latex-recommended texlive-latex-extra texlive-fonts-extra texlive-fonts-recommended
+
+script:
+  - pandoc example.md -o my_epub.epub
+  # Check if the PDF has been created
+  - if [ ! -e my_epub.epub ]; then exit 1; fi
